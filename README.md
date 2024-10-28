@@ -31,6 +31,6 @@ My experiences in mechatronics, PCB design, and embedded systems.
 📫 How to reach me
   - Email: ahmedismailahmed2004@gmail.com
   - LinkedIn: Ahmed Ismail Elbrolosy
-  - 
+
 ⚡ Fun fact
 Did you know? Coding is like coffee – sometimes you need a few tries to get it just right, but when it works, it's magic! And just like a good cup of coffee, debugging only makes it stronger!
